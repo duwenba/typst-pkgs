@@ -1,0 +1,4 @@
+[package]
+name = "muban"
+version = "0.1.0"
+entrypoint = "main.typ"
